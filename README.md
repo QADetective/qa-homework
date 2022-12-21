@@ -19,3 +19,5 @@
 1. Download carVertical’s [iOS](https://apps.apple.com/lt/app/carvertical-check-car-history/id1528834650) or [Android](https://play.google.com/store/apps/details?id=com.cvmobileapp) app
 2. Find at least one bug and/or suggest areas for improvement
 3. Report your findings to us
+
+## Task execution: in terminal run "npx playwright test --project=chromium" command
